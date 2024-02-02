@@ -514,6 +514,5 @@ O feedback contínuo grante maior resiliência não só do produto como todo, ma
 
 ***a. Você possui algum projeto pessoal relacionado a práticas DevOps? Se sim, descreva brevemente***.
 
-Costumo publicar códigos como contruibuição no GitHub, https://github.com/silvemerson, onde compartilho conhecimento com a comunidade. Além de também participar de uma comunidade chamada DevOps Heroes, onde costumo palestrar sobre assuntos relacionados a DevOps. 
-E por fim, tenho um blog sobre tecnologia, https://emerson-silva.blog.br/, onde publico regularmente artigos sobre DevOps. 
+Costumo publicar códigos como contruibuição no GitHub, [https://github.com/silvemerson](https://github.com/silvemerson), onde compartilho conhecimento com a comunidade. Além de também participar de uma comunidade chamada DevOps Heroes, onde costumo palestrar sobre assuntos relacionados a DevOps. E por fim, tenho um blog sobre tecnologia, [https://emerson-silva.blog.br/](https://emerson-silva.blog.br/), onde publico regularmente artigos sobre DevOps. 
 
